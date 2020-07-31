@@ -104,7 +104,7 @@
         "diffie-hellman": "^5.0.3",
         "domain-browser": "^1.2.0",
         "duplexify": "^3.7.1",
-        "elliptic": "^6.5.1",
+        "elliptic": "^6.5.3",
         "emoji-regex": "^7.0.3",
         "emojis-list": "^2.1.0",
         "end-of-stream": "^1.4.4",
