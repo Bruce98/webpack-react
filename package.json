@@ -29,7 +29,7 @@
     "main": "index.js",
     "dependencies": {
         "acorn": "^6.3.0",
-        "ajv": "^6.10.2",
+        "ajv": "^6.12.3",
         "ajv-errors": "^1.0.1",
         "ajv-keywords": "^3.4.1",
         "ansi-regex": "^4.1.0",
